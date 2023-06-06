@@ -1,4 +1,6 @@
-Team-Projects
+Team Projects
+==============================
+
 Unlocking Customer Insights for Customer-Centric Aircraft Design and Value Engineering through Feedback Analysis
 
 The automotive industry has been incorporating numerous new features into their vehicles based on valuable customer feedback. This progress has been made possible through direct interaction and engagement with customers. However, in the aviation industry, there exists a gap between the Original Equipment Manufacturer (OEM) and the final users, the passengers, primarily due to the existing business model.
